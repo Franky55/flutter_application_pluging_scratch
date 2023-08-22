@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Programation\Flutter\Plugin\Pluging_From_Scratch7aout\flutter_application_pluging_scratch\libraries\window_monitor\hardware_monitor_windows\CMakeFiles\a0e36f34e4d457d54d4a2d09278e0270\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{681AA133-0841-3F83-B99A-0D665A521FFC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

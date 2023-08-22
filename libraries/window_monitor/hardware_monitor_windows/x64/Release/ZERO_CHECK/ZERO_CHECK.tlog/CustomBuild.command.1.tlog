@@ -1,0 +1,10 @@
+^D:\PROGRAMATION\FLUTTER\PLUGIN\PLUGING_FROM_SCRATCH7AOUT\FLUTTER_APPLICATION_PLUGING_SCRATCH\LIBRARIES\WINDOW_MONITOR\HARDWARE_MONITOR_WINDOWS\CMAKEFILES\A0E36F34E4D457D54D4A2D09278E0270\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Programation/Flutter/Plugin/Pluging_From_Scratch7aout/flutter_application_pluging_scratch/libraries/window_monitor/hardware_monitor_windows -BD:/Programation/Flutter/Plugin/Pluging_From_Scratch7aout/flutter_application_pluging_scratch/libraries/window_monitor/hardware_monitor_windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Programation/Flutter/Plugin/Pluging_From_Scratch7aout/flutter_application_pluging_scratch/libraries/window_monitor/hardware_monitor_windows/hardware_monitor_windows.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

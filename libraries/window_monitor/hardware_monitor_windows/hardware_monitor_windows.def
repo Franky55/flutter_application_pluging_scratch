@@ -1,0 +1,5 @@
+LIBRARY   hardware_monitor_windows
+EXPORTS
+   getCurrentValue
+   initialize
+   getAverage
